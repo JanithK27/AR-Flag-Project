@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4665732419527862906
+  m_GuidHigh: 157209923507816631
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5647020141021783923
+      m_GuidHigh: 4957097627825713310
+    m_SerializedTextureGuid:
+      m_GuidLow: 3982368456104829389
+      m_GuidHigh: 5742764973979968554
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: india
+    m_Texture: {fileID: 2800000, guid: e6d961cd370237442aa4a13e5166b24f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4960099047991785526
+      m_GuidHigh: 10333140411642010757
+    m_SerializedTextureGuid:
+      m_GuidLow: 2063932773875560088
+      m_GuidHigh: 7248312668093706537
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: australia
+    m_Texture: {fileID: 2800000, guid: 3323ae988fec1ca42971b0eaf72d9764, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4695901901312224487
+      m_GuidHigh: 937003901226851201
+    m_SerializedTextureGuid:
+      m_GuidLow: 15903474594344013079
+      m_GuidHigh: 11482879847310586298
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: pakistan
+    m_Texture: {fileID: 2800000, guid: 22530d177de2dcb4ba7170d961625b9f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5625655303069757702
+      m_GuidHigh: 12807867657463907978
+    m_SerializedTextureGuid:
+      m_GuidLow: 1077558537208026489
+      m_GuidHigh: 10520677271753122937
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: china
+    m_Texture: {fileID: 2800000, guid: caf9557941c70ef479e45edb3cf40092, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4970472716985608704
+      m_GuidHigh: 17406548117240455326
+    m_SerializedTextureGuid:
+      m_GuidLow: 11183746926055705984
+      m_GuidHigh: 3317703609267957433
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Japan
+    m_Texture: {fileID: 2800000, guid: 416acd80a6939b34b9ae72ccdad90a2e, type: 3}
